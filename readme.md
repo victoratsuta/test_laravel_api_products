@@ -26,14 +26,14 @@ Test APP
 
 # Endpoints
 
-###Category
+### Category
 1. GET	`/api/category`	- get tree of categories
 2. POST `/api/category`		- create category
 3. GET	`/api/category/{id}`	- get category	
 4. PUT/PATCH `/api/category/{id}` - update category
 5. DELETE	`/api/category/{id}` - delete category	
 
-###Product
+### Product
 1. GET	`/api/product`	- get list of products with pagination 
 2. POST `/api/product`		- create product
 3. GET	`/api/product/{id}`	- get product	
